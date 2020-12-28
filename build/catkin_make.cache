@@ -1,2 +1,2 @@
-beginner_tutorials
+beginner_tutorials:learning_tf2:robot_setup_tf:turtlebot3_simulations/turtlebot3_fake:turtlebot3_simulations/turtlebot3_gazebo:turtlebot3_simulations/turtlebot3_simulations
 -DCATKIN_DEVEL_PREFIX=/home/kuro/Desktop/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/kuro/Desktop/catkin_ws/install -G Unix Makefiles
